@@ -1,16 +1,32 @@
-## Hi there 👋
+# ⚡ Pasupathi G — That Ambitious Lazy Kid
 
-<!--
-**ambitiouslazykid/ambitiouslazykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Tamil Nadu, India  
+🎯 Learning AI Automation | Building Real-World Projects  
+🧠 Documenting everything from Day 0
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Now
+
+- Practicing Python, APIs, No-Code tools  
+- Sharing daily progress (X & Threads)  
+- Pushing 1 new project every week
+
+---
+
+## 🧩 Upcoming Projects
+
+- WhatsApp Chat Analyzer  
+- File Auto-Renamer  
+- PDF to Audio CLI  
+- Cold Outreach Bot
+
+---
+
+## 🔗 Connect
+
+- [Threads](https://www.instagram.com/ambitiouslazykid)  
+- [X / Twitter](https://twitter.com/PasupathiAI)
+
+---
+
