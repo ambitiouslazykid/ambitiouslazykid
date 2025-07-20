@@ -26,7 +26,8 @@
 ## 🔗 Connect
 
 - [Threads](https://www.instagram.com/ambitiouslazykid)  
-- [X / Twitter](https://twitter.com/PasupathiAI)
+- [X ](https://twitter.com/PasupathiAI)
+- [Insta](https://www.instagram.com/ambitiouslazykid/)
 
 ---
 
