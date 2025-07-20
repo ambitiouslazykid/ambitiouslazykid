@@ -2,7 +2,7 @@
 
 📍 Tamil Nadu, India  
 🎯 Learning AI Automation | Building Real-World Projects  
-🧠 Documenting everything from Day 0
+🧠 Documenting everything 
 
 ---
 
